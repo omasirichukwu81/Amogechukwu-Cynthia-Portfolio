@@ -1,0 +1,164 @@
+body{
+    margin: 0;
+    padding: 0px;
+    background-color: rgb(49, 46, 46);
+    color: white;
+    margin-left: 20px;
+    
+
+}
+nav{
+    display: grid;
+    grid-template-columns: 1fr 350px 100px;
+    align-items: center;
+}
+.download{
+    list-style: none;
+    background-color: black;   
+    border: none;
+    border-radius: 8px;
+    color: white;   
+}
+
+a{
+    text-decoration: none;
+    color: gray;
+    margin-right: 10px;
+}
+p.avail{
+    background-color: aqua;
+    width: 30%;
+    border-radius: 8px;
+    text-align: center;
+}
+p.write-up{
+    font-family: sans-serif;
+    color: gray;
+}
+button{
+    background-color: black;
+    color: white;
+    border: 1px solid;
+    margin-left:10px ;
+    border-radius: 8px;
+}
+.about{
+    color: green;
+}
+.who{
+    font-family: sans-serif;
+}
+.web{
+    color: gray;
+    font-family: sans-serif;
+}
+.body{
+    display: grid;
+    grid-template-columns: 1fr 300px;
+
+}
+.block{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.block p{
+    background-color: black;
+    margin: 10px;
+    padding: 20px;
+    font-family: sans-serif;   
+}
+.percent{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+
+}
+.percent p{
+    background-color: black;
+    padding: 20px;
+    margin: 10px;
+} 
+.exp{
+    color: blue;
+    font-family: sans-serif;
+}
+h1{
+    font-family: sans-serif;
+}
+.work{
+    color: blue;
+    font-family: sans-serif;
+}
+.proj{
+    font-family: sans-serif;
+}
+.cynthia{
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr  ;
+    
+    gap: 10px;
+}
+.cyn{
+    background-color: aqua;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    text-align: center;  
+    margin: 0px;
+    width: 100%;
+    border-radius: 10px;   
+}
+.frontend{
+    background-color: black;
+    color: gray;
+    font-family: sans-serif;
+    border-radius: 10px;
+    text-align: center;
+}
+.thia{
+    color: white;
+    text-align: center;
+}
+.chidera{
+    background-color: aqua;
+    color: black;
+    border: none;
+}
+.get{
+    color: blue;
+}
+.cont{
+    font-family: sans-serif;
+}
+.abt-pro{
+    font-family: sans-serif;
+    color: gray;
+}
+.all-contact{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+input{
+    border-radius: 8px;
+    background-color: black;
+    color: white;
+    border: 1px solid;
+    border-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 50%;
+    display: block;
+    margin: 10px;
+
+    
+}
+.send{
+    padding-bottom: 10px;
+    margin: 10px;
+}
+.placeholder{
+    background-color: rgb(92, 84, 84);
+    width: 50%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
